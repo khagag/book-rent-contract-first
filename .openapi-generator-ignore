@@ -1,0 +1,14 @@
+# Ignore README.md
+README.md
+
+# Ignore pom.xml
+pom.xml
+
+# Ignore gitignore
+.gitignore
+
+# Ignore other gradle-related files
+build.gradle
+settings.gradle
+
+# Ignore any other unnecessary files or folders
